@@ -1,0 +1,6 @@
+{
+  "name": "Water Purifier Business",
+  "description": "Premium Water Purifier Business website with products, plans, appointment booking, and an admin management dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

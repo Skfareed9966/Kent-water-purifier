@@ -1,0 +1,129 @@
+{
+  "admin": {
+    "username": "shaikmohammadfareed17@gmail.com",
+    "password": "Farru@1723"
+  },
+  "settings": {
+    "businessName": "Kent Purifier",
+    "whatsappNumber": "918333873696",
+    "phone": "+91 8333873696",
+    "email": "contact@aquapuresolutions.com",
+    "address": "Plot 45, Water Works Colony, Sector 4, Hyderabad, India",
+    "mapsUrl": "https://maps.google.com/?q=Hyderabad",
+    "socialLinks": {
+      "facebook": "https://facebook.com",
+      "instagram": "https://instagram.com",
+      "twitter": "https://twitter.com",
+      "youtube": "https://youtube.com"
+    },
+    "heroTitle": "Pure & Healthy Water for Your Family",
+    "heroSubtitle": "Ensure 100% safe drinking water with our premium RO, UV, and Copper active multi-stage water purifiers.",
+    "heroBgImage": "https://images.unsplash.com/photo-1556911220-e15b29be8c8f?auto=format&fit=crop&q=80&w=1920",
+    "logoText": "Kent Purifier",
+    "bannerText": "Pure Water, Pure Life"
+  },
+  "products": [
+    {
+      "id": "prod_1",
+      "name": "AquaPure Premium RO + UV + Copper Active",
+      "image": "https://images.unsplash.com/photo-1618220179428-22790b461013?auto=format&fit=crop&q=80&w=800",
+      "description": "Advanced 8-stage water purifier featuring mineral enhancement, active copper filter, and smart LED indicators for water quality.",
+      "price": "16,499",
+      "available": true,
+      "features": [
+        "8-Stage Advanced Purification",
+        "Active Copper & Mineral Booster",
+        "9L Food-Grade Storage Tank",
+        "TDS Controller & Modulator",
+        "Smart LED Alerts for Filter Life"
+      ]
+    },
+    {
+      "id": "prod_2",
+      "name": "AquaPure Eco RO+UV Water Purifier",
+      "image": "https://images.unsplash.com/photo-1584269600464-37b1b58a9fe7?auto=format&fit=crop&q=80&w=800",
+      "description": "Efficient multi-stage purifier designed for households with water savings technology and high TDS tolerance.",
+      "price": "12,999",
+      "available": true,
+      "features": [
+        "7-Stage RO + UV Protection",
+        "Eco Water Saving Tech (saves 40%)",
+        "8L UV-Protected Storage Tank",
+        "Wall-Mountable Sleek Design",
+        "1-Year Comprehensive Warranty"
+      ]
+    },
+    {
+      "id": "prod_3",
+      "name": "AquaPure Ultra UF Gravity Purifier",
+      "image": "https://images.unsplash.com/photo-1563453392212-326f5e854473?auto=format&fit=crop&q=80&w=800",
+      "description": "Non-electric chemical-free gravity water purifier utilizing hollow-fiber UF membrane technology.",
+      "price": "3,499",
+      "available": true,
+      "features": [
+        "Chemical-Free Gravity Purifier",
+        "High-grade UF Membrane Filter",
+        "15 Liters Total Storage Capacity",
+        "No Electricity Required",
+        "Shatterproof Food-Grade Body"
+      ]
+    }
+  ],
+  "plans": [
+    {
+      "id": "plan_1",
+      "name": "AquaCare Essential Plan",
+      "image": "https://images.unsplash.com/photo-1541534741688-6078c6bfb5c5?auto=format&fit=crop&q=80&w=800",
+      "description": "Perfect for budget-conscious families. Includes periodic maintenance and basic filter checks.",
+      "price": "2,499/year",
+      "features": [
+        "2 Complimentary Maintenance Services",
+        "Sediment & Carbon Filter Replacement",
+        "Free Labor on Service Calls",
+        "24-Hour Emergency Assistance"
+      ]
+    },
+    {
+      "id": "plan_2",
+      "name": "AquaCare Shield Plan (RO+UV)",
+      "image": "https://images.unsplash.com/photo-1613214149922-f1809c99b414?auto=format&fit=crop&q=80&w=800",
+      "description": "Most popular choice. Complete protection including membrane changes and active copper service.",
+      "price": "4,499/year",
+      "features": [
+        "4 Comprehensive Services",
+        "Complete Filter Kit Replacement",
+        "RO Membrane Replacement Covered",
+        "Unlimited Breakdown Requests",
+        "Same-Day Priority Support"
+      ]
+    },
+    {
+      "id": "plan_3",
+      "name": "AquaCare Premium Commercial Plan",
+      "image": "https://images.unsplash.com/photo-1497366216548-37526070297c?auto=format&fit=crop&q=80&w=800",
+      "description": "Commercial water purification maintenance package for offices, clinics, and small institutions.",
+      "price": "9,999/year",
+      "features": [
+        "Monthly Health Checks",
+        "Complete Pre-Filter and Post-Filter Kits",
+        "All Spares and Membranes Covered",
+        "Dedicated Account Engineer",
+        "Guaranteed 4-Hour Response Time"
+      ]
+    }
+  ],
+  "appointments": [
+    {
+      "id": "apt_1",
+      "name": "Ramesh Kumar",
+      "mobile": "9876543210",
+      "address": "Flat 402, Lotus Residency, Gachibowli, Hyderabad",
+      "date": "2026-07-02",
+      "time": "10:00 AM",
+      "service": "Installation",
+      "message": "Please call 30 mins before reaching the location.",
+      "status": "pending",
+      "createdAt": "2026-06-30T10:00:00.000Z"
+    }
+  ]
+}
